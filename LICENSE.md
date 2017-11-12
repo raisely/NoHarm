@@ -1,4 +1,16 @@
-Kind World Public License
+Free World License
+
+**Preamble**
+
+Most software today is developed with little to no thought of how it will be used (outside of UX design) or the consequences for our society or those that we share our world with.
+
+As software developers, we engineer the infrastructure of the 21st century. We recognise that our infrastructure has great power to shape the world and the lives of those we share it with, and we choose to consciously take responsibility for how our software may be used and it's impact on society and the world.
+
+We envisage a world free from the scourges of injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all it's forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
+
+We build software to further this vision of a free world, or at the very least, to not put that vision further from reach.
+
+**Terms**
 
 Copyright (c) 2017 Agency Ventures. All rights reserved.
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -11,7 +23,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 4. This software must not be used by any organisation, website, or product that:
 
-   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, nuclear energy, warfare, warcrimes, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
+   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, warcrimes, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
 
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate: peace, universal access to human rights, freedom of workers to unionise, a safe environment, or action to curtail the use of fossil fuels or prevent climate change.
 
