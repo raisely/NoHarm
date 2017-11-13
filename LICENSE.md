@@ -2,9 +2,9 @@ Free World License
 
 **Preamble**
 
-Most software today is developed with little to no thought of how it will be used (outside of UX design) or the consequences for our society or those that we share our world with.
+Most software today is developed with little to no thought of how it will be used, or the consequences for our society and planet.
 
-As software developers, we engineer the infrastructure of the 21st century. We recognise that our infrastructure has great power to shape the world and the lives of those we share it with, and we choose to consciously take responsibility for how our software may be used and it's impact on society and the world.
+As software developers, we engineer the infrastructure of the 21st century. We recognise that our infrastructure has great power to shape the world and the lives of those we share it with, and we choose to consciously take responsibility for the social and environmental impacts of what we build.
 
 We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all it's forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
 
