@@ -1,4 +1,4 @@
-Free World License
+Just World License
 
 **Preamble**
 
