@@ -8,7 +8,7 @@ As software developers, we engineer the infrastructure of the 21st century. We r
 
 We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all it's forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
 
-We build software to further this vision of a free world, or at the very least, to not put that vision further from reach.
+We build software to further this vision of a just world, or at the very least, to not put that vision further from reach.
 
 **Terms**
 
