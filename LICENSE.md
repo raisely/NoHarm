@@ -23,9 +23,11 @@ Redistribution and use in source and binary forms, with or without modification,
 
 4. This software must not be used by any organisation, website, or product that:
 
-   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, warcrimes, violence (except when required to protect public safety), hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
+   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, warcrimes, violence (except when required to protect public safety), burning of forests, deforestation, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
 
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate: peace, universal access to human rights, freedom of workers to unionise, a safe environment, or action to curtail the use of fossil fuels or prevent climate change.
+
+   (We define deforestation to be the destruction of 5 or more hectares of trees in a 1 year period, when the trees were either planted more than 50 years ago or were not planted by humans)
 
 5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
 
