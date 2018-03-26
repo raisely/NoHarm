@@ -23,13 +23,14 @@ Redistribution and use in source and binary forms, with or without modification,
 
 4. This software must not be used by any organisation, website, or product that:
 
-   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, warcrimes, violence (except when required to protect public safety), hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
+   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, warcrimes, violence (except when required to protect public safety), burning of forests, deforestation, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
 
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate: peace, universal access to human rights, freedom of workers to unionise, a safe environment, or action to curtail the use of fossil fuels or prevent climate change.
 
-5. All redistribution of source code or binary form, including any modifications must be under
-the terms of these conditions. You must inform recipients that the code is governed by these
-conditions, and how they can obtain a copy of this license. You may not attempt to alter the
-conditions of who may/may not use this software.
+5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
+
+We define:
+*Forests* to be 0.5 or more hectares of trees that were either planted more than 50 years ago or were not planted by humans or human made equipment.
+*Deforestation* to be the clearing, burning or destruction of 0.5 or more hectares of forests within a 1 year period.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
