@@ -23,8 +23,7 @@ but with specific exclusions for using licensed code to promote or profit from:
 # How did this come about?
 
 This license was created by one of the developers of [Raisely](raisely.com) and [Kepla](kepla.com).
-We build software to help non-profit's and other organisations that make the world
-a better place.
+We grew out of [agency.sc](agency.sc) We build software to help non-profit's and other organisations that make the world a better place.
 
 As we build, we started creating libraries to solve problems we faced, and wanted to give back
 to the open source community (which our software is built on).
