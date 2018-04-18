@@ -20,6 +20,8 @@ but with specific exclusions for using licensed code to promote or profit from:
 * abuse of human rights,
 * the destruction of people’s physical and mental health
 
+[View the license](LICENSE.md)
+
 # How did this come about?
 
 This license was created by one of the developers of [Raisely](raisely.com) and [Kepla](kepla.com).
