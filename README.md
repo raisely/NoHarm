@@ -58,7 +58,7 @@ We prefer additions that:
 1. Add clarity,
 2. Address an important issue that we have overlooked,
 3. Foster adoption (see above), and
-3. Are concise (don't require lengthy legal definitions, though we know this isn't always possible).
+4. Are concise (don't require lengthy legal definitions, though we know this isn't always possible).
 
 Issues that are opened in order to debate ideology, express
 climate skepticism, promote discrimination or divisiveness, etc will be closed.
