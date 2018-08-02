@@ -23,7 +23,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 4. This software must not be used by any organisation, website, or product that:
 
-   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured servitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, war crimes, violence (except when required to protect public safety), burning of forests, deforestation, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
+   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: sex trafficking, human trafficking, slavery, indentured servitude, gambling, tobacco, adversely addictive behaviours, fossil fuel extraction and processing, nuclear energy (except for Gen IV and above), warfare, war crimes, violence (except when required to protect public safety), burning of forests, deforestation, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
 
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate: peace, universal access to human rights, peaceful assembly and association (including worker associations), a safe environment, or action to curtail the use of fossil fuels or prevent climate change.
 
