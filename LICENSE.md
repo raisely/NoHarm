@@ -1,4 +1,4 @@
-Just World License
+Do No Harm License
 
 **Preamble**
 

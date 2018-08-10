@@ -1,11 +1,11 @@
-# Just World License
+# Do No Harm License
 
 **A license for developers who write open source code to make the world a better place**
 
 As developers we can no longer close our eyes to the fact that open source code
 is being used by individuals and organizations to the detriment of our society.
 
-The Just World License is for developers that agree in general with the principles
+The Do No Harm License is for developers that agree in general with the principles
 of open source software, but are uncomfortable with their software being used
 as part of efforts to destroy lives, our environment and our future.
 
