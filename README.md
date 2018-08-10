@@ -25,7 +25,7 @@ but with specific exclusions for using licensed code to promote or profit from:
 # How did this come about?
 
 This license was created by one of the developers of [Raisely](raisely.com) and [Kepla](kepla.com).
-We grew out of [Agency](agency.sc) building software to help non-profit's and other organisations that make the world a better place.
+We grew out of [Agency](agency.sc) building software to help non-profits and other organisations that make the world a better place.
 
 As we built, we started creating libraries to solve problems we faced, and wanted to give back
 to the open source community (which our software is built on).
@@ -37,7 +37,7 @@ for and work for.
 # Adoptability
 
 Ultimately the aim is that this license be adopted by the open source community that are
-concerned with how our code is used .
+concerned with how our code is used.
 
 We strive to make the license specific and broadly adoptable so that individuals and
 organizations can use code under this license without fear of unnecessary or
@@ -61,4 +61,4 @@ We prefer additions that:
 4. Are concise (don't require lengthy legal definitions, though we know this isn't always possible).
 
 Issues that are opened in order to debate ideology, express
-climate skepticism, promote discrimination or divisiveness, etc will be closed.
+climate skepticism, promote discrimination or divisiveness, etc. will be closed.
