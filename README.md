@@ -1,11 +1,11 @@
-# Just World License
+# Do No Harm License
 
 **A license for developers who write open source code to make the world a better place**
 
 As developers we can no longer close our eyes to the fact that open source code
 is being used by individuals and organizations to the detriment of our society.
 
-The Just World License is for developers that agree in general with the principles
+The Do No Harm License is for developers that agree in general with the principles
 of open source software, but are uncomfortable with their software being used
 as part of efforts to destroy lives, our environment and our future.
 
@@ -24,8 +24,8 @@ but with specific exclusions for using licensed code to promote or profit from:
 
 # How did this come about?
 
-This license was created by one of the developers of [Raisely](raisely.com) and [Kepla](kepla.com).
-We grew out of [Agency](agency.sc) building software to help non-profits and other organisations that make the world a better place.
+This license was created by one of the developers of [Raisely](https://raisely.com) and [Kepla](https://kepla.com).
+We grew out of [Agency](https://agency.sc) building software to help non-profit's and other organisations that make the world a better place.
 
 As we built, we started creating libraries to solve problems we faced, and wanted to give back
 to the open source community (which our software is built on).
