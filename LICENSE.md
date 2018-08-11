@@ -1,4 +1,4 @@
-Just World License
+Do No Harm License
 
 **Preamble**
 
@@ -6,7 +6,7 @@ Most software today is developed with little to no thought of how it will be use
 
 As software developers, we engineer the infrastructure of the 21st century. We recognise that our infrastructure has great power to shape the world and the lives of those we share it with, and we choose to consciously take responsibility for the social and environmental impacts of what we build.
 
-We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all it's forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
+We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all its forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
 
 We build software to further this vision of a just world, or at the very least, to not put that vision further from reach.
 
@@ -43,7 +43,7 @@ Redistribution and use in source and binary forms, with or without modification,
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
       * universal access to human rights
-      * freedom of workers to unionise
+      * peaceful assembly and association (including worker associations)
       * a safe environment or action to curtail the use of fossil fuels or prevent climate change
 
 5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
