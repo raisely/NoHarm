@@ -22,6 +22,9 @@ but with specific exclusions for using licensed code to promote or profit from:
 
 [View the license](LICENSE.md)
 
+# Usage
+Simply copy the LICENSE.md file into your projects, and use the abbreviation `NoHarm` where necessary to describe your choice of license.
+
 # How did this come about?
 
 This license was created by one of the developers of [Raisely](https://raisely.com) and [Kepla](https://kepla.com).
