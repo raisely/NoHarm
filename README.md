@@ -37,7 +37,7 @@ for and work for.
 # Adoptability
 
 Ultimately the aim is that this license be adopted by the open source community that are
-concerned with how our code is used .
+concerned with how our code is used.
 
 We strive to make the license specific and broadly adoptable so that individuals and
 organizations can use code under this license without fear of unnecessary or
@@ -61,4 +61,4 @@ We prefer additions that:
 4. Are concise (don't require lengthy legal definitions, though we know this isn't always possible).
 
 Issues that are opened in order to debate ideology, express
-climate skepticism, promote discrimination or divisiveness, etc will be closed.
+climate skepticism, promote discrimination or divisiveness, etc. will be closed.
