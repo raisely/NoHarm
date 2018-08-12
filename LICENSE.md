@@ -1,4 +1,4 @@
-Just World License
+Do No Harm License
 
 **Preamble**
 
@@ -6,7 +6,7 @@ Most software today is developed with little to no thought of how it will be use
 
 As software developers, we engineer the infrastructure of the 21st century. We recognise that our infrastructure has great power to shape the world and the lives of those we share it with, and we choose to consciously take responsibility for the social and environmental impacts of what we build.
 
-We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all it's forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
+We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all its forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
 
 We build software to further this vision of a just world, or at the very least, to not put that vision further from reach.
 
@@ -21,11 +21,31 @@ Redistribution and use in source and binary forms, with or without modification,
 
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
-4. This software must not be used by any organisation, website, or product that:
+4. This software must not be used by any organisation, website, product or service that:
 
-   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to: pornography, sex trafficking, human trafficking, slavery, indentured survitude, gambling, tobacco, adversely addictive behaviours, nuclear energy, warfare, warcrimes, violence (except when required to protect public safety), burning of forests, deforestation, false advertising, fake news and spreading misleading information, hate speech or discrimination based on age, gender, race, sexuality, religion, nationality.
+   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to:
+      * pornography
+      * sex trafficking
+      * human trafficking
+      * slavery
+      * indentured survitude
+      * gambling
+      * tobacco
+      * adversely addictive behaviours
+      * nuclear energy
+      * warfare
+      * warcrimes
+      * violence (except when required to protect public safety)
+      * burning of forests
+      * deforestation
+      * hate speech or discrimination based on age, gender, race, sexuality, religion, nationality
+      * creation or distribution of information intended to deceive others
 
-   b) lobbies against, or derives a majority of income from actions that discourage or frustrate: peace, universal access to human rights, freedom of workers to unionise, a safe environment, or action to curtail the use of fossil fuels or prevent climate change.
+   b) lobbies against, or derives a majority of income from actions that discourage or frustrate:
+      * peace
+      * universal access to human rights
+      * peaceful assembly and association (including worker associations)
+      * a safe environment or action to curtail the use of fossil fuels or prevent climate change
 
 5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
 
