@@ -51,6 +51,22 @@ we would want to exclude so as to prevent the license from being overly complica
 or overly restrictive to the point where virtually no organisation could safely use
 the code.
 
+# Compatibility with FOSS
+
+Do No Harm is **not** a [FOSS-compliant](https://en.wikipedia.org/wiki/Free_and_open-source_software) license.
+Additionally, since this license shares the same implications as [the unfamous and problematic JSON license](https://wiki.debian.org/qa.debian.org/jsonevil),
+it is **not** compatible (at least) with:
+
+* Free Software Foundation (FSF): [_violates freedom 0_](https://directory.fsf.org/wiki/License:JSON)
+* Open Source Initiative (OSI): [_violates clauses 5. (No Discrimination Against Persons or Groups) and 6. (No Discrimination Against Fields of Endeavor)_](https://opensource.org/osd-annotated)
+* Debian Project: [_violates clauses 5. (No Discrimination Against Persons or Groups) and 6. (No Discrimination Against Fields of Endeavor)_](https://www.debian.org/social_contract.en.html#guidelines) and [_JSON license is considered non-free by Debian_](https://wiki.debian.org/qa.debian.org/jsonevil)
+* GNU: [_violates freedom 0_](https://www.gnu.org/licenses/license-list.en.html#JSON)
+* Fedora: [_impossible to parse or comply with_](https://fedoraproject.org/wiki/Licensing:Main#Bad_Licenses)
+* Google: [_this additional requirement constitutes a vague use restriction and thus makes the license non-free_](https://wonko.com/post/jsmin-isnt-welcome-on-google-code)
+* Redhat: [_Red Hat Legal (who are lawyers) disagree. JSON license is a bad license, with unenforceable clauses._](https://bugzilla.redhat.com/show_bug.cgi?id=455507)
+
+(Quotations apply to the JSON license where applicable.)
+
 # Contributing
 
 As with all things open source, we welcome suggestions and improvements.
