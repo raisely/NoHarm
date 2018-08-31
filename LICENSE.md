@@ -38,7 +38,7 @@ Redistribution and use in source and binary forms, with or without modification,
       * violence (except when required to protect public safety)
       * burning of forests
       * deforestation
-      * hate speech or discrimination based on age, gender, race, sexuality, religion, nationality
+      * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
 
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
