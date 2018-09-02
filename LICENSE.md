@@ -24,7 +24,7 @@ Redistribution and use in source and binary forms, with or without modification,
 4. This software must not be used by any organisation, website, product or service that:
 
    a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to:
-      * pornography
+      * non-consensual pornography
       * sex trafficking
       * human trafficking
       * slavery
