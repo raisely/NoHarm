@@ -41,12 +41,14 @@ Redistribution and use in source and binary forms, with or without modification,
       * deforestation
       * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
 
-   b) lobbies against, or derives a majority of income from actions that discourage or frustrate:
-      * peace
+   b) engages in actions that prevent, discourage or frustrate:
       * universal access to human rights
       * peaceful assembly and association (including worker associations)
-      * a safe environment or action to curtail the use of fossil fuels or prevent climate change
       * democratic processes
+
+   c) lobbies against, or derives a majority of income from actions that prevent, discourage or frustrate:
+      * peace
+      * a safe environment or action to curtail the use of fossil fuels or prevent climate change
 
 5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
 
