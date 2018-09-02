@@ -34,6 +34,7 @@ Redistribution and use in source and binary forms, with or without modification,
       * adversely addictive behaviours
       * nuclear energy
       * warfare
+      * weapons manufacturing
       * warcrimes
       * violence (except when required to protect public safety)
       * burning of forests
