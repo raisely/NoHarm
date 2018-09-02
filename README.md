@@ -25,6 +25,10 @@ but with specific exclusions for using licensed code to promote or profit from:
 # Usage
 Simply copy the LICENSE.md file into your projects, add your copyright information, and use the abbreviation `NoHarm` where necessary to describe your choice of license.
 
+## Can I add/remove my own exceptions
+If you do, then please be sure to choose a new name for the license so as to make it easy for people to
+automatically analyse licensing of package dependencies.
+
 # How did this come about?
 
 This license was created by one of the developers of [Raisely](https://raisely.com) and [Kepla](https://kepla.com).
@@ -64,4 +68,4 @@ We prefer additions that:
 4. Are concise (don't require lengthy legal definitions, though we know this isn't always possible).
 
 Issues that are opened in order to debate ideology, express
-climate skepticism, promote discrimination or divisiveness, etc. will be closed.
+climate skepticism, promote discrimination or divisiveness, etc. may be closed or deleted without comment.
