@@ -24,18 +24,17 @@ Redistribution and use in source and binary forms, with or without modification,
 4. This software must not be used by any organisation, website, product or service that:
 
    a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to:
-      * pornography
       * sex trafficking
       * human trafficking
       * slavery
-      * indentured survitude
+      * indentured servitude
       * gambling
       * tobacco
       * adversely addictive behaviours
       * nuclear energy
       * warfare
       * weapons manufacturing
-      * warcrimes
+      * war crimes
       * violence (except when required to protect public safety)
       * burning of forests
       * deforestation
