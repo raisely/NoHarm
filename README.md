@@ -22,8 +22,18 @@ but with specific exclusions for using licensed code to promote or profit from:
 
 [View the license](LICENSE.md)
 
+# Draft Status
+
+This license is currently in draft and should be considered not stable.
+
+We want to create a license that the community is invested in, doing so takes time to gather
+the input of the community.
+
+We're working towards a [version 1 of the license](https://github.com/raisely/NoHarm/milestone/1).
+
 # Usage
-Simply copy the LICENSE.md file into your projects, add your copyright information, and use the abbreviation `NoHarm` where necessary to describe your choice of license.
+
+Simply copy the LICENSE.md file into your projects, add your copyright information, and use the abbreviation `NoHarm-draft` where necessary to describe your choice of license.
 
 # How did this come about?
 
@@ -39,7 +49,7 @@ for and work for.
 
 # Adoptability
 
-Ultimately the aim is that this license be adopted by the open source community that are
+Ultimately the aim is that this license be adopted by those in the open source community that are
 concerned with how our code is used.
 
 We strive to make the license specific and broadly adoptable so that individuals and
