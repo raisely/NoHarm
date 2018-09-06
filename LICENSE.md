@@ -43,7 +43,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
    b) lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
-      * universal access to human rights
+      * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
       * a safe environment or action to curtail the use of fossil fuels or prevent climate change
       * democratic processes
