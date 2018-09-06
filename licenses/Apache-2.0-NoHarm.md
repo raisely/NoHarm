@@ -119,27 +119,28 @@ conditions:
 5. This software must not be used by any organisation, website, product, or service that:
    1. lobbies for, promotes, or derives a majority of income from actions that support or contribute
       to:
-      * pornography
       * sex trafficking
       * human trafficking
       * slavery
-      * indentured survitude
+      * indentured servitude
       * gambling
       * tobacco
       * adversely addictive behaviours
       * nuclear energy
       * warfare
-      * warcrimes
+      * weapons manufacturing
+      * war crimes
       * violence (except when required to protect public safety)
       * burning of forests
       * deforestation
-      * hate speech or discrimination based on age, gender, race, sexuality, religion, nationality
+      * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
 
    2. lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
-      * universal access to human rights
+      * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
       * a safe environment or action to curtail the use of fossil fuels or prevent climate change
+      * democratic processes
 
    ; and
 5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
