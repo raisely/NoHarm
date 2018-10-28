@@ -104,17 +104,17 @@ You may reproduce and distribute copies of the Work or Derivative Works thereof 
 or without modifications, and in Source or Object form, provided that You meet the following
 conditions:
 
-1. You must give any other recipients of the Work or Derivative Works a copy of this License; and
+1. You must give any other recipients of the Work or Derivative Works a copy of this License.
 
 2. You must cause any modified files to carry prominent notices stating that You changed the
-   files; and
+   files.
 
 3. You must retain, in the Source form of any Derivative Works that You distribute, all copyright,
    patent, trademark, and attribution notices from the Source form of the Work, excluding those
-   notices that do not pertain to any part of the Derivative Works; and
+   notices that do not pertain to any part of the Derivative Works.
 
 4. Neither the name of the copyright holder nor the names of its contributors may be used to endorse
-   or promote products derived from this software without specific prior written permission; and
+   or promote products derived from this software without specific prior written permission.
 
 5. This software must not be used by any organisation, website, product, or service that:
    1. lobbies for, promotes, or derives a majority of income from actions that support or contribute
@@ -133,16 +133,17 @@ conditions:
       * violence (except when required to protect public safety)
       * burning of forests
       * deforestation
-      * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
+      * hate speech or discrimination based on age, gender, gender identity, race, sexuality,
+        religion, nationality
 
    2. lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
-      * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
+      * access to the rights set out in the Universal Declaration of Human Rights and the Convention
+        on the Rights of the Child
       * peaceful assembly and association (including worker associations)
       * a safe environment or action to curtail the use of fossil fuels or prevent climate change
       * democratic processes
 
-   ; and
 5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
    Works that You distribute must include a readable copy of the attribution notices contained
    within such NOTICE file, excluding those notices that do not pertain to any part of the
