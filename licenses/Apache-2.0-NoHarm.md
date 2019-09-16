@@ -127,6 +127,7 @@ conditions:
             * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
             * hate speech
          3. **environmental destruction**:
+            * the extraction or sale of fossil fuels
             * deforestation
             * burning of forests
             * nuclear energy
@@ -144,7 +145,7 @@ conditions:
       * peace
       * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
-      * a safe environment or action to curtail the use of fossil fuels or prevent climate change
+      * a sustainable environment
       * democratic processes
 
    ; and
