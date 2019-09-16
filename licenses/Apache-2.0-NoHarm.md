@@ -1,6 +1,6 @@
 # Do No Harm License
 
-Version 0.1, August 2018
+Version 0.2, September 2019
 
 https://github.com/raisely/NoHarm
 
