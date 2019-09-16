@@ -117,25 +117,30 @@ conditions:
    or promote products derived from this software without specific prior written permission; and
 
 5. This software must not be used by any organisation, website, product, or service that:
-   1. lobbies for, promotes, or derives a majority of income from actions that support or contribute
+   1. promotes, lobbies for or derives a majority of income from actions that support or contribute
       to:
-      * sex trafficking
-      * human trafficking
-      * slavery
-      * indentured servitude
-      * gambling
-      * tobacco
-      * adversely addictive behaviours
-      * nuclear energy
-      * warfare
-      * weapons manufacturing
-      * war crimes
-      * violence (except when required to protect public safety)
-      * burning of forests
-      * deforestation
-      * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
+         1. **abuses of human rights**:
+            * sex trafficking
+            * human trafficking
+            * slavery
+            * indentured servitude
+            * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
+            * hate speech
+         3. **environmental destruction**:
+            * deforestation
+            * burning of forests
+            * nuclear energy
+         4. **conflict and war**:
+            * warfare
+            * war crimes
+            * weapons manufacturing
+            * violence (except when required to protect public safety)
+         2. **addictive or destructive products and services**:
+            * gambling
+            * tobacco
+            * products that encourage adversely addictive behaviours
 
-   2. lobbies against, or derives a majority of income from actions that discourage or frustrate:
+   2. dissuades, lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
       * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
