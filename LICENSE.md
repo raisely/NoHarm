@@ -1,5 +1,4 @@
-Do No Harm License
-
+# Do No Harm License
 
 ## 1. Preamble
 
