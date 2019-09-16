@@ -15,10 +15,10 @@ just world for all.
 This license is based on the [BSD 3-clause license](https://spdx.org/licenses/BSD-3-Clause.html),
 but with specific exclusions for using licensed code to promote or profit from:
 
-* violence, hate and division,
+* abuses of human rights,
 * environmental destruction,
-* abuse of human rights,
-* the destruction of people’s physical and mental health
+* conflict and war,
+* addictive or destructive products and services
 
 [View the license](LICENSE.md)
 
