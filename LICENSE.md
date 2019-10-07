@@ -123,7 +123,7 @@ conditions:
             * the extraction or sale of fossil fuels
             * the destruction of habitats for threatened or endangered species, including through deforestation or burning of forests
             * the abuse of animals resulting in hunger, malnutrition, thirst, fear distress, heat stress, physical discomfort, pain, injury, diease or the prevention of expression of normal patterns of behaviour.
-            * nuclear energy
+            * industrial processes that generate life or species-threatening waste products
          3. **conflict and war**:
             * warfare
             * war crimes
