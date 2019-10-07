@@ -121,8 +121,7 @@ conditions:
             * hate speech
          2. **environmental destruction**:
             * the extraction or sale of fossil fuels
-            * deforestation
-            * burning of forests
+            * the destruction of habitats for threatened or endangered species, including through deforestation or burning of forests
             * nuclear energy
          3. **conflict and war**:
             * warfare
