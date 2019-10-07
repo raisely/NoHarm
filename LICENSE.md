@@ -114,23 +114,22 @@ conditions:
    1. promotes, lobbies for or derives a majority of income from actions that support or contribute
       to:
          1. **abuses of human rights**:
-            * sex trafficking
             * human trafficking
-            * slavery
-            * indentured servitude
+            * sex trafficking
+            * slavery or indentured servitude
             * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
             * hate speech
-         3. **environmental destruction**:
+         2. **environmental destruction**:
             * the extraction or sale of fossil fuels
             * deforestation
             * burning of forests
             * nuclear energy
-         4. **conflict and war**:
+         3. **conflict and war**:
             * warfare
             * war crimes
             * weapons manufacturing
             * violence (except when required to protect public safety)
-         2. **addictive or destructive products and services**:
+         4. **addictive or destructive products and services**:
             * gambling
             * tobacco
             * products that encourage adversely addictive behaviours
