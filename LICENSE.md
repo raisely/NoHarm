@@ -121,7 +121,7 @@ conditions:
          2. **environmental destruction**:
             * the extraction or sale of fossil fuels
             * the destruction of habitats for threatened or endangered species, including through deforestation or burning of forests
-            * the abuse of animals resulting in hunger, malnutrition, thirst, fear distress, heat stress, physical discomfort, pain, injury, diease or the prevention of expression of normal patterns of behaviour.
+            * the abuse, inhumane killing or neglect of animals under human control
             * industrial processes that generate life or species-threatening waste products
          3. **conflict and war**:
             * warfare
