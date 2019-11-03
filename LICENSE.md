@@ -111,8 +111,7 @@ conditions:
    or promote products derived from this software without specific prior written permission; and
 
 5. This software must not be used by any organisation, website, product, or service that:
-   1. promotes, lobbies for or derives a majority of income from actions that support or contribute
-      to:
+   1. promotes, lobbies for or derives a majority of income from:
          1. **abuses of human rights**:
             * human trafficking
             * sex trafficking
