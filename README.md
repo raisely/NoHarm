@@ -8,8 +8,7 @@ The Do No Harm License is for developers that agree with the principles of open 
 
 This license is for developers who want their code to contribute to a better world.
 
-This license is based on the [BSD 3-clause license](https://spdx.org/licenses/BSD-3-Clause.html),
-but with specific exclusions for using licensed code to promote or profit from:
+It allows free use of the software except by orranisations, projects or products that promote, lobby for or derive a majority of income from:
 
 * abuses of human rights,
 * environmental destruction,
