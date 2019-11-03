@@ -120,23 +120,22 @@ conditions:
    1. promotes, lobbies for or derives a majority of income from actions that support or contribute
       to:
          1. **abuses of human rights**:
-            * sex trafficking
             * human trafficking
-            * slavery
-            * indentured servitude
+            * sex trafficking
+            * slavery or indentured servitude
             * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
             * hate speech
-         3. **environmental destruction**:
+         2. **environmental destruction**:
             * the extraction or sale of fossil fuels
-            * deforestation
-            * burning of forests
-            * nuclear energy
-         4. **conflict and war**:
+            * the destruction of habitats for threatened or endangered species, including through deforestation or burning of forests
+            * the abuse of animals resulting in hunger, malnutrition, thirst, fear distress, heat stress, physical discomfort, pain, injury, diease or the prevention of expression of normal patterns of behaviour.
+            * industrial processes that generate life or species-threatening waste products
+         3. **conflict and war**:
             * warfare
             * war crimes
             * weapons manufacturing
             * violence (except when required to protect public safety)
-         2. **addictive or destructive products and services**:
+         4. **addictive or destructive products and services**:
             * gambling
             * tobacco
             * products that encourage adversely addictive behaviours
@@ -149,7 +148,8 @@ conditions:
       * democratic processes
 
    ; and
-5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
+   
+6. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
    Works that You distribute must include a readable copy of the attribution notices contained
    within such NOTICE file, excluding those notices that do not pertain to any part of the
    Derivative Works, in at least one of the following places: within a NOTICE text file
