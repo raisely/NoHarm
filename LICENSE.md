@@ -122,7 +122,7 @@ conditions:
             * the extraction or sale of fossil fuels
             * the destruction of habitats for threatened or endangered species, including through deforestation or burning of forests
             * the abuse, inhumane killing or neglect of animals under human control
-            * industrial processes that generate life or species-threatening waste products
+            * industrial processes that generate waste products that threaten life
          3. **conflict and war**:
             * warfare
             * war crimes
