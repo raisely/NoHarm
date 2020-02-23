@@ -13,7 +13,7 @@ It allows free use of the software except by organisations, projects or products
 [View the license](LICENSE.md)
 
 # Draft Status
-This license is currently in draft and should be considered not stable.
+This license is currently in draft and should not be considered stable.
 
 We want to create a license that the community is invested in, doing so takes time to gather input.
 
@@ -26,7 +26,6 @@ Simply copy the LICENSE.md file into your projects, add your copyright informati
 If you do, then please be sure to choose a new name for the license so as to make it easy for people to automatically analyse licensing of package dependencies.
 
 # How did this come about?
-
 This license was created by one of the developers of [Raisely](https://raisely.com) and [Kepla](https://kepla.com). We grew out of [Agency](https://agency.sc) building software to help non-profit's and other organisations that work for a more just and equal world.
 
 We started creating libraries to solve problems we faced, and wanted to give back to the community on which our software depends.
@@ -36,15 +35,13 @@ We strive every day to create tools for that more just and equal world, and want
 A license that aims to ensure every usage contributes positively to the world creates a cumbersome, subjective hurdle which is difficult to implement. Instead, the NoHarm license was created with a simple negative screen for anyone who would use the software. It is intended to clearly target the most egregious and unambiguous harmful behaviours by people and organisations to others and to the environment.
 
 # Adoptability
-
-Ultimately the aim is that this license be adopted by those in the open source community that are concerned with how our code is used.
+Ultimately the aim is that this license be adopted by software developers are concerned with how our code is used.
 
 We strive to make the license specific and broadly adoptable so that individuals and organizations can use code under this license without fear of unnecessary or punitive enforcement.
 
 This means that the license may not always cover every kind of unethical practice that we would want to exclude so as to prevent the license from being overly complicated or overly restrictive to the point where virtually no organisation could safely use the code.
 
 # Contributing
-
 We welcome suggestions and improvements.
 If you would like to suggest improvements, please open an issue.
 
