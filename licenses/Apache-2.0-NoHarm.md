@@ -141,7 +141,7 @@ conditions:
 
    2. dissuades, lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
-      * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
+      * access to the rights set out in the [Universal Declaration of Human Rights](./documents/UDHR.md) and the [Convention on the Rights of the Child](./documents/CRC.md)
       * peaceful assembly and association (including worker associations)
       * a sustainable environment
       * democratic processes
