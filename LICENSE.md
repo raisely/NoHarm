@@ -21,7 +21,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
-4. This software must not be used by any organisation, website, product or service that:
+4. This software must not be used by any individual, organisation, website, product or service that:
 
    a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to:
       * sex trafficking
@@ -46,6 +46,12 @@ Redistribution and use in source and binary forms, with or without modification,
       * peaceful assembly and association (including worker associations)
       * a safe environment or action to curtail the use of fossil fuels or prevent climate change
       * democratic processes
+
+   c) promotes, participates or advocates for acts of:
+      * doxxing
+      * blackmailing
+      * targeted harassment
+      * threatening
 
 5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
 

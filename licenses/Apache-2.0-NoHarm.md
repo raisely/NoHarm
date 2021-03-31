@@ -116,7 +116,7 @@ conditions:
 4. Neither the name of the copyright holder nor the names of its contributors may be used to endorse
    or promote products derived from this software without specific prior written permission; and
 
-5. This software must not be used by any organisation, website, product, or service that:
+5. This software must not be used by any individual, organisation, website, product, or service that:
    1. lobbies for, promotes, or derives a majority of income from actions that support or contribute
       to:
       * sex trafficking
@@ -141,6 +141,12 @@ conditions:
       * peaceful assembly and association (including worker associations)
       * a safe environment or action to curtail the use of fossil fuels or prevent climate change
       * democratic processes
+
+   3. promotes, participates or advocates for acts of:
+      * doxxing
+      * blackmailing
+      * targeted harassment
+      * threatening
 
    ; and
 5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
