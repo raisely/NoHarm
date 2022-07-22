@@ -26,39 +26,39 @@ vision further from reach.
 
 ## 2. Definitions
 
-"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by
+"License" must mean the terms and conditions for use, reproduction, and distribution as defined by
 Sections 1 through 9 of this document.
 
-"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is
+"Licensor" must mean the copyright owner or entity authorized by the copyright owner that is
 granting the License.
 
-"Legal Entity" shall mean the union of the acting entity and all other entities that control, are
+"Legal Entity" must mean the union of the acting entity and all other entities that control, are
 controlled by, or are under common control with that entity. For the purposes of this definition,
 "control" means (i) the power, direct or indirect, to cause the direction or management of such
 entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the
 outstanding shares, or (iii) beneficial ownership of such entity.
 
-"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this
+"You" (or "Your") must mean an individual or Legal Entity exercising permissions granted by this
 License.
 
-"Source" form shall mean the preferred form for making modifications, including but not limited to
+"Source" form must mean the preferred form for making modifications, including but not limited to
 software source code, documentation source, and configuration files.
 
-"Object" form shall mean any form resulting from mechanical transformation or translation of a
+"Object" form must mean any form resulting from mechanical transformation or translation of a
 Source form, including but not limited to compiled object code, generated documentation, and
 conversions to other media types.
 
-"Work" shall mean the work of authorship, whether in Source or Object form, made available under the
+"Work" must mean the work of authorship, whether in Source or Object form, made available under the
 License, as indicated by a copyright notice that is included in or attached to the work (an example
 is provided in the Appendix below).
 
-"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or
+"Derivative Works" must mean any work, whether in Source or Object form, that is based on (or
 derived from) the Work and for which the editorial revisions, annotations, elaborations, or other
 modifications represent, as a whole, an original work of authorship. For the purposes of this
-License, Derivative Works shall not include works that remain separable from, or merely link (or
+License, Derivative Works must not include works that remain separable from, or merely link (or
 bind by name) to the interfaces of, the Work and Derivative Works thereof.
 
-"Contribution" shall mean any work of authorship, including the original version of the Work and any
+"Contribution" must mean any work of authorship, including the original version of the Work and any
 modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted
 to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity
 authorized to submit on behalf of the copyright owner. For the purposes of this definition,
@@ -69,13 +69,13 @@ for the purpose of discussing and improving the Work, but excluding communicatio
 conspicuously marked or otherwise designated in writing by the copyright owner as "Not a
 Contribution."
 
-"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a
+"Contributor" must mean Licensor and any individual or Legal Entity on behalf of whom a
 Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-"Forests" shall mean 0.5 or more hectares of trees that were either planted more than 50 years ago
+"Forests" must mean 0.5 or more hectares of trees that were either planted more than 50 years ago
 or were not planted by humans or human made equipment.
 
-"Deforestation" shall mean the clearing, burning or destruction of 0.5 or more hectares of forests
+"Deforestation" must mean the clearing, burning or destruction of 0.5 or more hectares of forests
 within a 1 year period.
 
 ## 3. Grant of Copyright License
@@ -95,7 +95,7 @@ are necessarily infringed by their Contribution(s) alone or by combination of th
 with the Work to which such Contribution(s) was submitted. If You institute patent litigation
 against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or
 a Contribution incorporated within the Work constitutes direct or contributory patent infringement,
-then any patent licenses granted to You under this License for that Work shall terminate as of the
+then any patent licenses granted to You under this License for that Work must terminate as of the
 date such litigation is filed.
 
 ## 5. Redistribution
@@ -163,8 +163,8 @@ the Work otherwise complies with the conditions stated in this License.
 ## 6. Submission of Contributions
 
 Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the
-Work by You to the Licensor shall be under the terms and conditions of this License, without any
-additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify
+Work by You to the Licensor must be under the terms and conditions of this License, without any
+additional terms or conditions. Notwithstanding the above, nothing herein must supersede or modify
 the terms of any separate license agreement you may have executed with Licensor regarding such
 Contributions.
 
@@ -187,7 +187,7 @@ risks associated with Your exercise of permissions under this License.
 
 In no event and under no legal theory, whether in tort (including negligence), contract, or
 otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or
-agreed to in writing, shall any Contributor be liable to You for damages, including any direct,
+agreed to in writing, must any Contributor be liable to You for damages, including any direct,
 indirect, special, incidental, or consequential damages of any character arising as a result of this
 License or out of the use or inability to use the Work (including but not limited to damages for
 loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial
