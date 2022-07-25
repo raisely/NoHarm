@@ -1,6 +1,6 @@
 # Do No Harm License
 
-Version 0.1, August 2018
+Version 0.2, September 2019
 
 https://github.com/raisely/NoHarm
 
@@ -117,33 +117,38 @@ conditions:
    or promote products derived from this software without specific prior written permission; and
 
 5. This software must not be used by any organisation, website, product, or service that:
-   1. lobbies for, promotes, or derives a majority of income from actions that support or contribute
-      to:
-      * sex trafficking
-      * human trafficking
-      * slavery
-      * indentured servitude
-      * gambling
-      * tobacco
-      * adversely addictive behaviours
-      * nuclear energy
-      * warfare
-      * weapons manufacturing
-      * war crimes
-      * violence (except when required to protect public safety)
-      * burning of forests
-      * deforestation
-      * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
+   1. promotes, lobbies for or derives a majority of income from:
+         1. **abuses of human rights**:
+            * human trafficking
+            * sex trafficking
+            * slavery or indentured servitude
+            * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
+            * hate speech
+         2. **environmental destruction**:
+            * the extraction or sale of fossil fuels
+            * the destruction of habitats for threatened or endangered species, including through deforestation or burning of forests
+            * the abuse, inhumane killing or neglect of animals under human control
+            * industrial processes that generate waste products that threaten life
+         3. **conflict and war**:
+            * warfare
+            * war crimes
+            * weapons manufacturing
+            * violence (except when required to protect public safety)
+         4. **addictive or destructive products and services**:
+            * gambling
+            * tobacco
+            * products that encourage adversely addictive behaviours
 
-   2. lobbies against, or derives a majority of income from actions that discourage or frustrate:
+   2. dissuades, lobbies against, or derives a majority of income from actions that discourage or frustrate:
       * peace
-      * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
+      * access to the rights set out in the [Universal Declaration of Human Rights](./documents/UDHR.md) and the [Convention on the Rights of the Child](./documents/CRC.md)
       * peaceful assembly and association (including worker associations)
-      * a safe environment or action to curtail the use of fossil fuels or prevent climate change
+      * a sustainable environment
       * democratic processes
 
    ; and
-5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
+
+6. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
    Works that You distribute must include a readable copy of the attribution notices contained
    within such NOTICE file, excluding those notices that do not pertain to any part of the
    Derivative Works, in at least one of the following places: within a NOTICE text file
