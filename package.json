@@ -1,0 +1,23 @@
+{
+  "name": "noharm",
+  "version": "1.0.0",
+  "description": "**A license for developers who write code for a better world**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRod22/NoHarm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRod22/NoHarm/issues"
+  },
+  "homepage": "https://github.com/IRod22/NoHarm#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
