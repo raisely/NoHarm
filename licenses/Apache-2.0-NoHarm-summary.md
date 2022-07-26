@@ -42,7 +42,7 @@ When distributing the licensed work or your derivative work, you must
 - include a copy of this licence,
 - retain attribution notices,
 - state changes that you made and
-- not use the names of the author and the contributors to promote your derivative work
+- not use the names of the author and the contributors to promote your derivative work.
 
 If the licensed work includes a "NOTICE" text file with attribution notices, you must copy those notices to:
 
