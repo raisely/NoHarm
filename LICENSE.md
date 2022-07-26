@@ -138,9 +138,9 @@ conditions:
       * access to the rights set out in the [Universal Declaration of Human Rights](./documents/UDHR.md) and the [Convention on the Rights of the Child](./documents/CRC.md)
       * democratic processes
       * peaceful assembly and association (including worker associations)
-      * a sustainable environment
+      * a sustainable environment; and
    
-5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
+6. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
    Works that You distribute must include a readable copy of the attribution notices contained
    within such NOTICE file, excluding those notices that do not pertain to any part of the
    Derivative Works, in at least one of the following places: within a NOTICE text file
