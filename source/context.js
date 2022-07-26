@@ -17,8 +17,16 @@ function join(ls, {
     return `${ls.join(`${item_sep} `)}${item_sep} ${final_sep} ${last}`
 }
 
+/**
+ * @param {string} str
+ */
+function trim(str) {
+    return str.split('\n').map(s => s.trim()).join('\n')
+}
+
 const ctx = {
     ...require('./data'),
     join,
+    trim,
 }
 module.exports = ctx

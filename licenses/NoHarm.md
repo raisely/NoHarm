@@ -41,10 +41,10 @@ outstanding shares, or (iii) beneficial ownership of such entity.
 "You" (or "Your") must mean an individual or Legal Entity exercising permissions granted by this
 License.
 
-"Source" form must mean the preferred form for making modifications, including but not limited to
-software source code, documentation source, and configuration files.
+"Source" must mean the preferred form for making modifications, including but not limited to
+the software source code, documentation source, and configuration files.
 
-"Object" form must mean any form resulting from mechanical transformation or translation of a
+"Object" must mean any form resulting from mechanical transformation or translation of a
 Source form, including but not limited to compiled object code, generated documentation, and
 conversions to other media types.
 
@@ -72,11 +72,13 @@ Contribution."
 "Contributor" must mean Licensor and any individual or Legal Entity on behalf of whom a
 Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-"Forests" must mean 0.5 or more hectares of trees that were either planted more than 50 years ago
+"Forest" (or "Forests") must mean 0.5 or more hectares of trees that were either planted more than 50 years ago
 or were not planted by humans or human made equipment.
 
 "Deforestation" must mean the clearing, burning or destruction of 0.5 or more hectares of forests
 within a 1 year period.
+
+
 
 ## 3. Grant of Copyright License
 

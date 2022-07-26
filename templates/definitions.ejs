@@ -1,0 +1,9 @@
+<% const renderSynonyms = syns => {
+    if(syns.length) {%> (or <%- syns.map(s => `"${s}"`).join(', ') %>)<%}
+}; _%>
+## 2. Definitions
+
+<% for (const { term, definition, synonyms } of definitions) { _%>
+"<%= term %>"<% renderSynonyms(synonyms); %> must mean <%- trim(definition) %>
+
+<% } %>
