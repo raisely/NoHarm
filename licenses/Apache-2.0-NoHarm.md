@@ -144,7 +144,7 @@ conditions:
       * access to the rights set out in the [Universal Declaration of Human Rights](./documents/UDHR.md) and the [Convention on the Rights of the Child](./documents/CRC.md)
       * peaceful assembly and association (including worker associations)
       * a sustainable environment
-      * democratic processes
+      * democratic processes; and
 
 6. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
    Works that You distribute must include a readable copy of the attribution notices contained
