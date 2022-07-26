@@ -62,6 +62,22 @@ const data = {
         'reproduction',
         'distribution'
     ],
+    type_of_license: [
+        'perpetual',
+        'worldwide',
+        'non-exclusive',
+        'no-charge',
+        'royalty-free',
+        'irrevocable',
+    ],
+    permissions: [
+        'reproduce',
+        'prepare Derivative Works of',
+        'publicly display',
+        'publicly perform',
+        'sublicense',
+        'distribute',
+    ],
     definitions,
 }
 

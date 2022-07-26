@@ -84,8 +84,7 @@ within a 1 year period.
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a
 perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to
-reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and
-distribute the Work and such Derivative Works in Source or Object form.
+reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
 
 ## 4. Grant of Patent License
 
