@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/IRod22/NoHarm#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "ejs": "^3.1.8"
   }
 }
