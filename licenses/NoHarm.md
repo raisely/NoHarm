@@ -213,7 +213,7 @@ END OF TERMS AND CONDITIONS
 
 Copyright (year) [owner](url).
 
-Licensed under the Do No Harm License, Version 0.1 (the "License"); you may not use this file except
+Licensed under the Do No Harm License, Version 0.3 (the "License"); you may not use this file except
 in compliance with the License. You may obtain a
 [copy](https://github.com/raisely/NoHarm/licenses/apache-2.0.md) of the License.
 
