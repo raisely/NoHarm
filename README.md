@@ -12,6 +12,8 @@ It allows free use of the software except by organisations, projects or products
 
 [View the license](LICENSE.md)
 
+[View the summary](licenses/Apache-2.0-NoHarm-summary.md)
+
 # Draft Status
 This license is currently in draft and should not be considered stable.
 
