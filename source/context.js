@@ -8,7 +8,7 @@ function join(ls, {
 } = {}) {
     if ((!ls) && (ls.length <= 0))
         return empty
-    if (ls.length == 0)
+    if (ls.length == 1)
         return ls[0]
     if (ls.length == 2)
         return `${ls[0]} ${final_sep} ${ls[1]}`
