@@ -1,6 +1,7 @@
+<% const renderVersion = () => {%><%= version.major %>.<%= version.minor %><%}; _%>
 # <%= license_name %> License
 
-Version <%= version.major %>.<%= version.minor %>, <%= version.month %> <%= version.year %>
+Version <% renderVersion() %>, <%= version.month %> <%= version.year %>
 
 <%= repo_url %>
 
@@ -26,7 +27,7 @@ END OF TERMS AND CONDITIONS
 
 Copyright (year) [owner](url).
 
-Licensed under the <%= license_name %> License, Version <%= version.major %>.<%= version.minor %> (the "License"); you may not use this file except
+Licensed under the <%= license_name %> License, Version <% renderVersion() %> (the "License"); you may not use this file except
 in compliance with the License. You may obtain a
 [copy](https://github.com/raisely/NoHarm/licenses/apache-2.0.md) of the License.
 
