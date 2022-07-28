@@ -78,6 +78,21 @@ const data = {
         'sublicense',
         'distribute',
     ],
+    warranties: {
+        conditions: [
+            'title',
+            'non-infringement',
+            'merchantability',
+            'fitness for a particular purpose',
+        ],
+        damages: [
+            'direct',
+            'indirect',
+            'special',
+            'incidental',
+            'consequential'
+        ]
+    },
     definitions,
 }
 
