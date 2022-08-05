@@ -60,7 +60,7 @@ const data = {
     actions: [
         'use',
         'reproduction',
-        'distribution'
+        'distribution',
     ],
     type_of_license: [
         'perpetual',
@@ -90,8 +90,15 @@ const data = {
             'indirect',
             'special',
             'incidental',
-            'consequential'
-        ]
+            'consequential',
+        ],
+        assurances: [
+            'acceptance of support',
+            'warranty',
+            'indemnity',
+            'other liability obligations',
+            'rights consistent with this License',
+        ],
     },
     definitions,
 }
