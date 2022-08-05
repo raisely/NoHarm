@@ -114,34 +114,34 @@ conditions:
 4. Neither the name of the copyright holder nor the names of its contributors may be used to endorse
    or promote products derived from this software without specific prior written permission
 5. This software must not be used by any organisation, website, product, or service that:
-   1. promotes, lobbies for or derives a majority of income from:
-      1. **abuses of human rights**:
+   1. Promotes, lobbies for or derives a majority of income from:
+      1. **Abuses of human rights**:
          * human trafficking
          * sex trafficking
          * slavery or indentured servitude
          * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
          * hate speech
 
-      2. **environmental destruction**:
+      2. **Environmental destruction**:
          * the extraction or sale of fossil fuels
          * the destruction of habitats for threatened or endangered species,
            including through deforestation or burning of forests
          * the abuse, inhumane killing or neglect of animals under human control
          * industrial processes that generate waste products that threaten life
 
-      3. **conflict and war**:
+      3. **Conflict and war**:
          * warfare
          * war crimes
          * weapons manufacturing
          * unprovoked violence
 
-      4. **addictive or destructive products and services**:
+      4. **Addictive or destructive products and services**:
          * gambling
          * tabaco
          * products that encourage adversely addictive behaviours
 
 
-   2. dissuades, lobbies against, or derives a majority of income from actions that
+   2. Dissuades, lobbies against, or derives a majority of income from actions that
       discourage or frustrate:
       * peace
       * access to the rights set out in the

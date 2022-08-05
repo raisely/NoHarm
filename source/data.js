@@ -71,34 +71,34 @@ const terms_of_redistribution = [
     { text: `Neither the name of the copyright holder nor the names of its contributors may be used to endorse
     or promote products derived from this software without specific prior written permission` },
     { text: `This software must not be used by any organisation, website, product, or service that`, items: [
-        { text: `promotes, lobbies for or derives a majority of income from`, items: [
-            { text: `**abuses of human rights**`, items: bullet([
+        { text: `Promotes, lobbies for or derives a majority of income from`, items: [
+            { text: `**Abuses of human rights**`, items: bullet([
                 'human trafficking',
                 'sex trafficking',
                 'slavery or indentured servitude',
                 'discrimination based on age, gender, gender identity, race, sexuality, religion, nationality',
                 'hate speech',
             ]) },
-            { text: `**environmental destruction**`, items: bullet([
+            { text: `**Environmental destruction**`, items: bullet([
                 'the extraction or sale of fossil fuels',
                 `the destruction of habitats for threatened or endangered species,
                 including through deforestation or burning of forests`,
                 'the abuse, inhumane killing or neglect of animals under human control',
                 'industrial processes that generate waste products that threaten life',
             ]) },
-            { text: `**conflict and war**`, items: bullet([
+            { text: `**Conflict and war**`, items: bullet([
                 'warfare',
                 'war crimes',
                 'weapons manufacturing',
                 'unprovoked violence',
             ]) },
-            { text: `**addictive or destructive products and services**`, items: bullet([
+            { text: `**Addictive or destructive products and services**`, items: bullet([
                 'gambling',
                 'tabaco',
                 'products that encourage adversely addictive behaviours',
             ]) },
         ] },
-        { text: `dissuades, lobbies against, or derives a majority of income from actions that
+        { text: `Dissuades, lobbies against, or derives a majority of income from actions that
         discourage or frustrate`, items: bullet([
             'peace',
             `access to the rights set out in the
