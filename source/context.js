@@ -20,8 +20,8 @@ function join(ls, {
 /**
  * @param {string} str
  */
-function trim(str) {
-    return str.split('\n').map(s => s.trim()).join('\n')
+function trim(str, spaces = 0) {
+    return str.split('\n').map((s, i) => i ? ' '.repeat(spaces) + s.trim() : s.trim()).join('\n')
 }
 
 const ctx = {
