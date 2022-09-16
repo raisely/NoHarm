@@ -110,7 +110,7 @@ conditions:
 4. Neither the name of the copyright holder nor the names of its contributors may be used to endorse
    or promote products derived from this software without specific prior written permission; and
 
-5. This software must not be used by any organisation, website, product, or service that:
+5. This software must not be used by any person, organisation or other legal entity, or any website, product or service that:
    1. promotes, lobbies for or derives a majority of income from:
          1. **abuses of human rights**:
             * human trafficking
@@ -138,10 +138,9 @@ conditions:
       * access to the rights set out in the [Universal Declaration of Human Rights](./documents/UDHR.md) and the [Convention on the Rights of the Child](./documents/CRC.md)
       * democratic processes
       * peaceful assembly and association (including worker associations)
-      * a sustainable environment
-   ; and
+      * a sustainable environment; and
    
-5. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
+6. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative
    Works that You distribute must include a readable copy of the attribution notices contained
    within such NOTICE file, excluding those notices that do not pertain to any part of the
    Derivative Works, in at least one of the following places: within a NOTICE text file
