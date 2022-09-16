@@ -12,6 +12,8 @@ It allows free use of the software except by organisations, projects or products
 
 [View the license](LICENSE.md)
 
+[View the summary](licenses/Apache-2.0-NoHarm-summary.md)
+
 # Draft Status
 This license is currently in draft and should not be considered stable.
 
@@ -22,7 +24,7 @@ We're working towards a [version 1 of the license](https://github.com/raisely/No
 # Usage
 Simply copy the LICENSE.md file into your projects, add your copyright information, and use the abbreviation `NoHarm-draft` where necessary to describe your choice of license.
 
-## Can I add/remove my own exceptions
+## Can I add/remove my own exceptions?
 If you do, then please be sure to choose a new name for the license so as to make it easy for people to automatically analyse licensing of package dependencies.
 
 # How did this come about?
@@ -51,4 +53,4 @@ We prefer additions that:
 3. Foster adoption (see above), and
 4. Are concise, where possible avoiding lengthy legal definitions.
 
-Issues that are opened to discrimintate, promote hate speech, incite violence, bully, harrass, etc. may be closed or deleted without comment.
+Issues that are opened to discriminate, promote hate speech, incite violence, bully, harrass, etc. may be closed or deleted without comment.
