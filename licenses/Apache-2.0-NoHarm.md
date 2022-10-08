@@ -1,3 +1,9 @@
+Provided that your derivative of this licence
+* uses an unambiguously different name and
+* does not imply directly or indirectly that such a derivative is supported by the original licence creators or users,
+
+you are allowed to use the text of the Do No Harm Licence according to the following terms and conditions
+
 # Do No Harm License
 
 Version 0.3, July 2022
