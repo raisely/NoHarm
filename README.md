@@ -54,3 +54,12 @@ We prefer additions that:
 4. Are concise, where possible avoiding lengthy legal definitions.
 
 Issues that are opened to discriminate, promote hate speech, incite violence, bully, harrass, etc. may be closed or deleted without comment.
+
+
+# Terms of Modification
+
+Provided that your derivative of this licence
+* uses an unambiguously different name and
+* does not imply directly or indirectly that such a derivative is supported by the original licence creators or users, <!-- [?] discuss -->
+
+you are allowed to use the text of the Do No Harm Licence according to the terms of the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) ([summary](https://creativecommons.org/publicdomain/zero/1.0/)).
