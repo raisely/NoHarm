@@ -10,7 +10,7 @@ This license is for developers who want their code to contribute to a better wor
 
 It allows free use of the software except by organisations, projects or products that promote, lobby for or derive a majority of income from *abuses of human rights*, *environmental destruction*, *conflict and war* and *addictive or destructive products and services*. It also excludes use of the software by organisations, projects or products that discourage or frustrate *peace*, *human rights*, *democracy* and *environmental sustainability*.
 
-[View the license](LICENSE.md)
+[View the license](Apache-2.0-NoHarm.md)
 
 [View the summary](licenses/Apache-2.0-NoHarm-summary.md)
 
@@ -63,3 +63,4 @@ Provided that your derivative of this licence
 * does not imply directly or indirectly that such a derivative is supported by the original licence creators or users, <!-- [?] discuss -->
 
 you are allowed to use the text of the Do No Harm Licence according to the terms of the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) ([summary](https://creativecommons.org/publicdomain/zero/1.0/)).
+If copied verbatim without any modifications, the Do No Harm Licence may be used and re-distributed according to CC0 without any further restrictions (like having to change the title).
