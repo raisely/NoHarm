@@ -10,7 +10,7 @@ This license is for developers who want their code to contribute to a better wor
 
 It allows free use of the software except by organisations, projects or products that promote, lobby for or derive a majority of income from *abuses of human rights*, *environmental destruction*, *conflict and war* and *addictive or destructive products and services*. It also excludes use of the software by organisations, projects or products that discourage or frustrate *peace*, *human rights*, *democracy* and *environmental sustainability*.
 
-[View the license](Apache-2.0-NoHarm.md)
+[View the license](licenses/Apache-2.0-NoHarm.md)
 
 [View the summary](licenses/Apache-2.0-NoHarm-summary.md)
 
