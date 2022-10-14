@@ -58,9 +58,4 @@ Issues that are opened to discriminate, promote hate speech, incite violence, bu
 
 # Terms of Modification
 
-Provided that your derivative of this licence
-* uses an unambiguously different name and
-* does not imply directly or indirectly that such a derivative is supported by the original licence creators or users, <!-- [?] discuss -->
-
-you are allowed to use the text of the Do No Harm Licence according to the terms of the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) ([summary](https://creativecommons.org/publicdomain/zero/1.0/)).
-If copied verbatim without any modifications, the Do No Harm Licence may be used and re-distributed according to CC0 without any further restrictions (like having to change the title).
+You may use the content of the Do No Harm Licence according to the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) (read the [summary](https://creativecommons.org/publicdomain/zero/1.0/)), but if you modify the content, you must also change the name of your derivative licence in order to prevent any confusion. Also, do not claim that we, the original licence creators, would endorse your specific derivative.
