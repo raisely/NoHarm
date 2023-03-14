@@ -116,7 +116,7 @@ conditions:
             * human trafficking
             * sex trafficking
             * slavery or indentured servitude
-            * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
+            * discrimination based on age, gender, gender identity, race, sexuality, religion, nationality, caste
             * hate speech
          2. **environmental destruction**:
             * the extraction or sale of fossil fuels
